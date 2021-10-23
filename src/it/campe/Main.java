@@ -7,7 +7,7 @@ public class Main {
         String s2 = "It";
         String s3 = "Just";
 
-        String tagline = ""; //напишите тут ваш код
+        String tagline = s3 + s1 + s2;
 
         System.out.println(tagline);
     }
